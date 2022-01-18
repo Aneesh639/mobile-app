@@ -13,6 +13,7 @@ html {
 }
 
 body {
+  margin: 0;
   /* line-height: 1.5; */
   color: rgb(73, 72, 72);
   font-size: 1.6em; /* 16px */
@@ -44,6 +45,18 @@ h1 {
   padding: 0;
   padding-bottom: 23px;/*footer+paddingの高さ*/
   text-align: center;
+}
+
+.back{
+  text-align: left ;
+}
+#btn99{
+  padding: 0.5em;
+  border-radius: 0.3em;
+  color: whitesmoke;
+  font-size: 1.5em;
+  background: rgb(26,212,212);
+  cursor: pointer;
 }
 
 .f-container {
